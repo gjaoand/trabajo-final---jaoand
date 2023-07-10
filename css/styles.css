@@ -1,0 +1,13 @@
+h1{
+    color:#db1f5c;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+}
+
+ 
+.color-blue{
+    color: rgb(22, 24, 150);
+}
